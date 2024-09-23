@@ -6,3 +6,5 @@ elementBody.removeChild(elementMain)
 //2nd test. newHeader
 const newHeader = document.getElementsByTagName("h1")[0]
 
+
+
